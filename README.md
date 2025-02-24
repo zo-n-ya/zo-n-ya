@@ -13,7 +13,7 @@ I enjoy writing clean, efficient code to solve real-world problems. Whether it's
 I'm eager to collaborate on **data-driven projects, market research, machine learning applications, and business strategy analytics**. If you're working on an innovative project that involves **data science or software development**, let's connect!  
 
 📫 **How to Reach Me:**  
-Feel free to connect with me via **[LinkedIn](www.linkedin.com/in/zonya-qi)** or reach out at **zonyaqi@sas.upenn.edu**.  
+Feel free to connect with me via **zonyaqi@sas.upenn.edu**.  
 
 😄 **Pronouns:**  
 She/Her/Hers  
