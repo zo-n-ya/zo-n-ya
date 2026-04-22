@@ -1,26 +1,56 @@
-👋 Hi, I’m @zo-n-ya
+👋 Hi, I’m Zonya
 
-👀 **Interests:**  
-I'm passionate about **coding, data analytics, business intelligence, and strategic market research**. I love turning complex data into meaningful insights that drive decision-making and innovation.  
+---
 
-🌱 **Currently Learning:**  
-I'm continuously improving my skills in **R, Python, SQL, and data visualization tools like Tableau and Power BI**. Additionally, I'm exploring **machine learning, statistical modeling, and automation** to enhance my analytical capabilities.  
+## 🚀 What I Do
 
-💻 **Passion:**  
-I enjoy writing clean, efficient code to solve real-world problems. Whether it's **data wrangling, predictive modeling, or algorithm optimization**, I'm always excited to dive into new coding challenges.  
+I build operational systems that automate logistics workflows, optimize routing, and transform manual processes into scalable tools.
 
-💞️ **Looking to Collaborate On:**  
-I'm eager to collaborate on **data-driven projects, market research, machine learning applications, and business strategy analytics**. If you're working on an innovative project that involves **data science or software development**, let's connect!  
+My work sits at the intersection of **backend development, operations, and data systems**, with a strong focus on real-world execution.
 
-📫 **How to Reach Me:**  
-Feel free to reach out to me at **zonyaqi@sas.upenn.edu**.  
+---
 
-😄 **Pronouns:**  
-She/Her/Hers  
+## 🧩 Key Focus Areas
 
-🚀 Always open to new opportunities and challenges in the world of **coding, data science, and analytics**. Let's connect and build something amazing together!
+* Backend systems (Flask, APIs, automation)
+* Logistics and operations tooling
+* Route optimization and exception handling workflows
+* Data-driven decision systems
+* Process automation and efficiency improvement
 
-<!---
-zo-n-ya/zo-n-ya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💼 Selected Work
+
+* Built a **PDA-based parcel routing system** for real-time route assignment and exception handling
+* Developed a **multi-warehouse analytics platform** for dispatch performance and KPI tracking
+* Designed an **inventory management system** with automated refresh pipelines and database integration
+* Created multiple internal tools to improve operational efficiency and reduce manual workload
+
+---
+
+## 🛠 Tech Stack
+
+* Python, Flask
+* PostgreSQL
+* REST APIs
+* Pandas / Data Processing
+* Excel-based configuration systems
+
+---
+
+## 🌱 Currently Exploring
+
+* System design and scalable backend architecture
+* Automation pipelines
+* Data systems for operations
+
+---
+
+## 📫 Contact
+
+[zonyaqi@sas.upenn.edu](mailto:zonyaqi@sas.upenn.edu)
+
+---
+
+🚀 Always interested in building practical systems that solve real-world operational problems.
