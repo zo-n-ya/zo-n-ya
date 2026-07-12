@@ -47,6 +47,26 @@ My work sits at the intersection of **backend development, operations, and data 
 
 ---
 
+## 🤖 Featured Artifact – Logistics Operations Assistant
+
+As part of my AI portfolio, I designed a custom GPT called **Logistics Operations Assistant** to support warehouse staff and dispatch coordinators with everyday operational tasks.
+
+### Key Features
+- English ↔ Chinese ↔ Spanish translation
+- Professional warehouse and dispatch communication
+- Parcel status explanations
+- Logistics workflow assistance
+
+### Technologies
+- ChatGPT GPT Builder
+- Prompt Engineering
+- Generative AI
+
+### Product Link
+https://chatgpt.com/g/g-6a5356ba3d848191861b0bc6f0cb3a3a-logistics-operations-assistant
+
+---
+
 ## 📫 Contact
 
 [zonyaqi@sas.upenn.edu](mailto:zonyaqi@sas.upenn.edu)
