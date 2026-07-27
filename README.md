@@ -92,6 +92,20 @@ https://github.com/zo-n-ya/parcel_tool
 
 ---
 
+## 🧠 Artifact 3 – Machine Learning Training Methods Coach
+
+### Description
+
+This artifact demonstrates my understanding of machine learning training methods through an interactive AI-assisted learning activity. During this exercise, I collaborated with ChatGPT to explore supervised learning, unsupervised learning, reinforcement learning, algorithms, model training, and the importance of data. Rather than simply receiving answers, I used AI as a learning partner to reinforce key concepts and practice explaining technical ideas in clear language.
+
+### Skills Demonstrated
+
+Machine Learning Fundamentals
+AI Collaboration
+Critical Thinking
+Technical Communication
+Prompting AI for Learning
+
 ## 📫 Contact
 
 [zonyaqi@sas.upenn.edu](mailto:zonyaqi@sas.upenn.edu)
