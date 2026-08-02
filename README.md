@@ -106,6 +106,39 @@ Critical Thinking
 Technical Communication
 Prompting AI for Learning
 
+
+## Artifact 4 – Logistics Delivery Analytics Dashboard (Portfolio Demo)
+
+**Description**
+
+A privacy-safe analytics dashboard created to demonstrate delivery performance reporting, KPI visualization, and automated operational reporting. This portfolio edition uses 100% synthetic data while preserving the dashboard design, workflow, and analytical capabilities of the original project.
+
+**Key Features**
+
+- Interactive dashboard interface
+- Delivery KPI visualization
+- Route performance analysis
+- Automated reporting workflow
+- Privacy-safe synthetic demonstration data
+
+**Skills Demonstrated**
+
+- Python
+- Data Analytics
+- Dashboard Design
+- Data Visualization
+- Reporting Automation
+- Responsible AI & Data Privacy
+
+**Repository**
+
+https://github.com/zo-n-ya/logistics-delivery-analytics-dashboard
+
+**Live Demo**
+
+https://zo-n-ya.github.io/logistics-delivery-analytics-dashboard/
+
+
 ## 📫 Contact
 
 [zonyaqi@sas.upenn.edu](mailto:zonyaqi@sas.upenn.edu)
