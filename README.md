@@ -47,7 +47,7 @@ My work sits at the intersection of **backend development, operations, and data 
 
 ---
 
-## 🤖 Featured Artifact 1 – Logistics Operations Assistant
+## Featured Artifact 1 – Logistics Operations Assistant
 
 As part of my AI portfolio, I designed a custom GPT called **Logistics Operations Assistant** to support warehouse staff and dispatch coordinators with everyday operational tasks.
 
@@ -67,7 +67,7 @@ https://chatgpt.com/g/g-6a5356ba3d848191861b0bc6f0cb3a3a-logistics-operations-as
 
 ---
 
-## 📦 Featured Artifact 2 – Parcel Tool
+## Featured Artifact 2 – Parcel Tool
 
 As part of my professional portfolio, I also developed **Parcel Tool**, an AI-assisted logistics automation system that streamlines warehouse operations and dispatch workflows.
 
@@ -92,7 +92,7 @@ https://github.com/zo-n-ya/parcel_tool
 
 ---
 
-## 🧠 Artifact 3 – Machine Learning Training Methods Coach
+## Artifact 3 – Machine Learning Training Methods Coach
 
 ### Description
 
