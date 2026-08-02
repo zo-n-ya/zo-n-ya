@@ -106,6 +106,7 @@ Critical Thinking
 Technical Communication
 Prompting AI for Learning
 
+---
 
 ## Artifact 4 – Logistics Delivery Analytics Dashboard (Portfolio Demo)
 
@@ -138,6 +139,7 @@ https://github.com/zo-n-ya/logistics-delivery-analytics-dashboard
 
 https://zo-n-ya.github.io/logistics-delivery-analytics-dashboard/
 
+---
 
 ## 📫 Contact
 
