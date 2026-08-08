@@ -1,8 +1,8 @@
-👋 Hi, I’m Zonya
+Hi, I’m Zonya
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I build operational systems that automate logistics workflows, optimize routing, and transform manual processes into scalable tools.
 
@@ -10,7 +10,7 @@ My work sits at the intersection of **backend development, operations, and data 
 
 ---
 
-## 🧩 Key Focus Areas
+## Key Focus Areas
 
 * Backend systems (Flask, APIs, automation)
 * Logistics and operations tooling
@@ -20,7 +20,7 @@ My work sits at the intersection of **backend development, operations, and data 
 
 ---
 
-## 💼 Selected Work
+## Selected Work
 
 * Built a **PDA-based parcel routing system** for real-time route assignment and exception handling
 * Developed a **multi-warehouse analytics platform** for dispatch performance and KPI tracking
@@ -39,7 +39,7 @@ My work sits at the intersection of **backend development, operations, and data 
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 * System design and scalable backend architecture
 * Automation pipelines
