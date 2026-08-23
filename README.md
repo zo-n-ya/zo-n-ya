@@ -141,6 +141,70 @@ https://zo-n-ya.github.io/logistics-delivery-analytics-dashboard/
 
 ---
 
+## Artifact 5 – Geospatial AOI Planner
+
+### Description
+
+This artifact demonstrates a privacy-safe geospatial planning system that generates polygon-based Areas of Interest (AOIs) using public geographic data, road-network information, and human-guided planning tools.
+
+The original project was developed to support practical area planning and route-boundary design. For my professional portfolio, I created a separate demo version that removes internal route mappings, warehouse information, operational identifiers, and other sensitive data.
+
+### Key Features
+
+- Automatic AOI generation
+- Road and waterway-based boundary detection
+- Human-guided rough block drawing
+- Cut-line based splitting
+- Snap-to-road functionality
+- GeoJSON export
+- Interactive map visualization
+- Privacy-safe demo regions
+
+### Technologies
+
+- Python
+- Flask
+- Shapely
+- PyProj
+- Leaflet
+- OpenStreetMap / Overpass API
+- U.S. Census geographic data
+- GeoJSON
+
+### Skills Demonstrated
+
+- Geospatial analysis
+- Workflow automation
+- Algorithmic planning
+- Human-in-the-loop design
+- Spatial data processing
+- Interactive web application development
+- Responsible data handling and privacy-conscious design
+
+### Value Proposition
+
+This project demonstrates my ability to turn a real operational planning challenge into a practical software solution. Instead of relying only on manual map drawing, the tool uses geographic data and road-network structure to support faster and more consistent AOI planning.
+
+### Unique Value
+
+The unique value of this artifact is the combination of automation and human judgment. The system can automatically generate AOIs, but users can also guide the result through rough polygons and cut lines when operational knowledge is needed.
+
+This reflects an important lesson I have learned through both my work and AI/ML studies: automation is most effective when it supports human decision-making rather than completely replacing it.
+
+### Relevance
+
+This artifact supports my professional goal of combining software automation, data, AI/ML concepts, and logistics operations to solve real-world problems. It also demonstrates how I apply iterative development, privacy considerations, and user feedback when building operational tools.
+
+### Repository
+
+https://github.com/zo-n-ya/geospatial-aoi-planner
+
+### Portfolio Demo Note
+
+The public portfolio version uses demonstration regions and public geographic data only. Production route mappings, warehouse information, customer data, internal identifiers, private APIs, and credentials are not included.
+
+
+
 ## 📫 Contact
 
 [zonyaqi@sas.upenn.edu](mailto:zonyaqi@sas.upenn.edu)
